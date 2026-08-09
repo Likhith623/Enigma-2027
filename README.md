@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 Enigma 2027
+# 🏆 Enigma 2026
 
 ### Professional Networking Compatibility Prediction
 **CodeFest'26 · IIT (BHU) Varanasi**
@@ -433,7 +433,7 @@ submission_pure_ml.csv        →  160,000 rows  (ML only, α = 0.0)
 ## 📁 Repository Structure
 
 ```
-Enigma-2027/
+Enigma-2026/
 │
 ├── perfect_v15.py                  # Final solution — all 22 features, LightGBM/GBM
 │                                   # Targets MSE ≈ 0; outputs single submission.csv
@@ -576,7 +576,7 @@ radar
 
 <div align="center">
 
-**Built for CodeFest'26 · IIT (BHU) Varanasi · Enigma 2027**
+**Built for CodeFest'26 · IIT (BHU) Varanasi · Enigma 2026**
 
 *"The best models don't just predict — they understand."*
 
